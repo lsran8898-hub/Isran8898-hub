@@ -1,18 +1,17 @@
-# Isran8898-hub-Publ
-👋 Hi, I'm Ahmed Hatim
+ 👋 Hi, I'm Ahmed Hatim
 
 💻 Computer Science Student | Aspiring Software Developer
 
-I'm a computer science student passionate about programming, web development, and mobile application design. I'm continuously learning and building projects to improve my skills.
+I'm passionate about programming, web development, and mobile app development. I'm continuously learning and building projects to improve my skills.
 
 ---
 
 🚀 Technologies I'm Learning
 
-- ⚙️ C++ — Programming Fundamentals & Problem Solving
+- ⚙️ C++ — Programming & Problem Solving
 - 🌐 HTML & CSS — Front-End Development
-- 💛 JavaScript — Interactive Web Experiences
-- 📱 Flutter & Dart — Mobile Application Development
+- 💛 JavaScript — Interactive Web Development
+- 📱 Flutter & Dart — Mobile App Development
 
 ---
 
@@ -20,8 +19,8 @@ I'm a computer science student passionate about programming, web development, an
 
 - Build useful and creative applications.
 - Improve my problem-solving skills.
-- Develop responsive and modern websites.
-- Create cross-platform mobile apps with Flutter.
+- Develop modern, responsive websites.
+- Create cross-platform mobile apps.
 
 ---
 
